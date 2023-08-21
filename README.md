@@ -50,8 +50,7 @@ A simple Telegram userbot based on Telethon .
 - `COMMAND_HAND_LER`  =  Your command handler.
 - `DATABASE_URL`  =  A Postgresql database url.
 
-------
-## LionX Session
+
 
 
 ------
@@ -88,7 +87,7 @@ A simple Telegram userbot based on Telethon .
 
 ## TELEGRAM ID OF OWNER:-
 
-- [AAYUSH](https://telegram.me/Awesome_Aayu)
+- [AAYUSH](https://telegram.me/Aayush_X_D)
   
 ## Support
 
@@ -96,7 +95,7 @@ A simple Telegram userbot based on Telethon .
 
 [Group](https://t.me/Aayu_x_venom)
 
-**Full Credit Goes to [AAYUSH](http://t.me/TeamLionX) And [VENOM](https://telegram.me/Its_aryann)**
+**Full Credit Goes to [AAYUSH](https://telegram.me/Aayush_X_D) And [VENOM](https://telegram.me/Its_aryann)**
 
    <a href="https://t.me/Aayu_x_venom"> </a>
    <a href="https://t.me/aayu_X_venom_support">
