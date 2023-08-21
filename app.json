@@ -1,7 +1,7 @@
 {
-  "name": "LionXZ",
-  "description": "A simple Telegram userbot based on Telethon ",
-  "logo": "https://telegra.ph/file/91282faec32f3e122e8a4.jpg",
+  "name": "𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪",
+  "description": "A simple Telegram userbot based on Telethon BY AAYUSH  ",
+  "logo": "https://telegra.ph/file/397ecf5aafdb4f1a8b79b.jpg",
   "keywords": [
     "plugin",
     "modular",
@@ -9,11 +9,11 @@
   ],
   "repository": "https://github.com/MdNoor786/LionX/",
   "website": "#TODO",
-  "success_url": "https://t.me/LionXsupport",
+  "success_url": "https://t.me/Aayu_x_venom",
   "env": {
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": "ⱠłØ₦-Ⱬ Ʉѕєя"
+      "value": "𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
