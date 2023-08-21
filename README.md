@@ -1,5 +1,5 @@
 A simple Telegram userbot based on Telethon .
-[![LionX logo](https://telegra.ph/file/98723186aa539cae2c0fe.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTeamLionX%2FLionX%2Ftree%2Fmaster&template=https%3A%2F%2Fgithub.com%2FTeamLionX%2FLionX)
+[![𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪LOGO](https://telegra.ph/file/397ecf5aafdb4f1a8b79b.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTeamLionX%2FLionX%2Ftree%2Fmaster&template=https%3A%2F%2Fgithub.com%2FTeamLionX%2FLionX)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTeamLionX%2FLionX&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/TeamLionX/LionX)
 [![CodeFactor](https://www.codefactor.io/repository/github/TeamLionX/LionX/badge?&style=flat-square)](https://www.codefactor.io/repository/github/TeamLionX/LionX)
@@ -51,7 +51,7 @@ A simple Telegram userbot based on Telethon .
 - Every mandatory variables are listed [Here](#Variables).
 - Please note that YoutubeDL won't work on railway deploys.
 - You won't be able to update your bot. To update you'll have to deploy again. I'll find a method to update through railway soon.
-- Due to railway's privacy policy I removed railway button from repo. But you can get deploy link in our [LionXSupport](https://t.me/LionXsupport). Type `#railway` to get deploy link.
+- Due to railway's privacy policy I removed railway button from repo. But you can get deploy link in our [𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪](https://t.me/aayu_X_venom_support). Type `#railway` to get deploy link.
 
 
 ### Repl
@@ -63,7 +63,7 @@ A simple Telegram userbot based on Telethon .
 - If You have Enabled 2-Step Verification then fill your password.
 - Your Lion X Session Will be saved in your Telegram Saved Message.
 - There's a bug in repl which prints your input twice or more.So You Can Use String Bot Now
-- [![Replit](https://telegra.ph/file/077958ee013e378b36818.jpg)](https://t.me/LionXStringbot)
+- [![Replit](https://telegra.ph/file/077958ee013e378b36818.jpg)]
 
 -----
 ## Disclaimer
@@ -77,24 +77,23 @@ A simple Telegram userbot based on Telethon .
 
 ------
 
-## Page
+## TELEGRAM ID OF OWNER:-
 
-- [Click Here](https://teamlionx.github.io/LionX/)
+- [Click Here](https://telegram.me/Awesome_Aayu)
   
 ## Support
 
-![Channel](https://img.shields.io/badge/dynamic/json?color=red&label=channel%20@LionXUpdates&query=subscribers&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3DLionXUpdates&logo=telegram)
+![Channel](https://t.me/aayu_X_venom_support)
 
-![Group](https://img.shields.io/badge/dynamic/json?color=red&label=support%20@LionXSupport&query=members&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3DLionXSupport&logo=telegram)
+![Group](https://t.me/Aayu_x_venom)
 
-**Full Credit Goes to [LionXDevs](http://t.me/TeamLionX) And [CatUserbot](https://github.com/sandy1709/catuserbot)**
+**Full Credit Goes to [AAYUSH](http://t.me/TeamLionX) And [VENOM](https://telegram.me/Its_aryann)**
 
-   <a href="https://t.me/LionXupdates"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a>
-   <a href="https://t.me/LionXSupport"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a>
+   <a href="https://t.me/Aayu_x_venom">/a>
+   <a href="https://t.me/aayu_X_venom_support">
 
 
 ______
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
