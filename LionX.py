@@ -8,6 +8,6 @@ logging.basicConfig(
 # Starting bot
 system("git clone https://gitHub.com/TeamLionX/LionX && cd LionX && python3 -m userbot")
 # if got error
-print(" Sʀʏʏ ᴜɴғᴏʀᴛᴜɴᴀᴛᴇʟʏ ʏᴏᴜ ʜᴀᴠᴇ ɢᴏᴛ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴀᴛ @LionXsupport")
+print(" Sʀʏʏ ᴜɴғᴏʀᴛᴜɴᴀᴛᴇʟʏ ʏᴏᴜ ʜᴀᴠᴇ ɢᴏᴛ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴀᴛ @aayu_X_venom_support")
 # Script written for stop heroku suspension
 # use with credit else gay
