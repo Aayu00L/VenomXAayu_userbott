@@ -88,17 +88,17 @@ A simple Telegram userbot based on Telethon .
 
 ## TELEGRAM ID OF OWNER:-
 
-- [Click Here](https://telegram.me/Awesome_Aayu)
+- [AAYUSH](https://telegram.me/Awesome_Aayu)
   
 ## Support
 
-![Channel](https://t.me/aayu_X_venom_support)
+[Channel](https://t.me/aayu_X_venom_support)
 
-![Group](https://t.me/Aayu_x_venom)
+[Group](https://t.me/Aayu_x_venom)
 
 **Full Credit Goes to [AAYUSH](http://t.me/TeamLionX) And [VENOM](https://telegram.me/Its_aryann)**
 
-   <a href="https://t.me/Aayu_x_venom">/a>
+   <a href="https://t.me/Aayu_x_venom"> </a>
    <a href="https://t.me/aayu_X_venom_support">
 
 
